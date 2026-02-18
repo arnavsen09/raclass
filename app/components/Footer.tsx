@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Copyright */}
           <div className="mb-4 md:mb-0">
             <p className="text-gray-300">
-              © {currentYear} Raclass. All rights reserved.
+              © {currentYear} R@W@T CLASSES. All rights reserved.
             </p>
           </div>
 
@@ -30,7 +30,7 @@ export default function Footer() {
 
         {/* Description */}
         <div className="mt-4 text-center text-gray-400 text-sm">
-          <p>Expert Math Coaching for IIT-JEE and Board Exams</p>
+          <p>Proper guience for 6-9 & 10,11,12</p>
         </div>
       </div>
     </footer>

@@ -20,8 +20,8 @@ export default function ClassroomCourses() {
           </div>
 
           <p className="text-lg text-gray-600 mb-6 text-center">
-            Comprehensive online math classes for IIT-JEE prep, including live sessions, 
-            recorded lectures, and practice tests. Designed for 10th-12th graders aiming 
+            Comprehensive online for classes - 9 to 12, IIT-JEE prep, <b>Including Exclusive Study Materials</b>, 
+            lectures, and practice tests. Designed for 10th-12th graders aiming 
             for top percentiles.
           </p>
 
