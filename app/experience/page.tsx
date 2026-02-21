@@ -19,7 +19,7 @@ export default function Experience() {
         {/* Grid */}
         <div className="grid md:grid-cols-2 gap-12">
 
-          {/* ================= VIVEK SIR ================= */}
+          {/* VIVEK SIR */}
           <div className="group relative backdrop-blur-xl bg-white/5 border border-white/10 p-10 rounded-3xl shadow-2xl hover:shadow-blue-500/30 transition duration-500 hover:-translate-y-3 overflow-hidden">
 
             {/* Glow Overlay */}
@@ -82,7 +82,7 @@ export default function Experience() {
             </div>
           </div>
 
-          {/* ================= SHANU SIR ================= */}
+          {/* SHANU SIR */}
           <div className="group relative backdrop-blur-xl bg-white/5 border border-white/10 p-10 rounded-3xl shadow-2xl hover:shadow-blue-500/30 transition duration-500 hover:-translate-y-3 overflow-hidden">
 
             {/* Glow Overlay */}
